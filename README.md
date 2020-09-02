@@ -1,4 +1,4 @@
-### Hi Im Andreina 
+### Hi I’m Andreina 
 ![catdoodle](https://user-images.githubusercontent.com/65917157/91773893-3f2ced80-ebad-11ea-9495-6815dba1ceb4.png)
 <!--
 **Andreina26/Andreina26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
